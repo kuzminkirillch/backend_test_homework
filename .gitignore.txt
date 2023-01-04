@@ -1,2 +1,0 @@
-#Игнорь все расширения док
-D:/Dev/backend_test_homework/*.doc
