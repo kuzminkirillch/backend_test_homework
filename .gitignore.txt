@@ -1,2 +1,2 @@
 #Игнорь все расширения док
-backend_test_homework/*.doc
+D:/Dev/backend_test_homework/*.doc
